@@ -27,7 +27,7 @@ function round(value, decimals) {
 var db = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: 'Root444@',
+  password: '',
   //password: 'Radnic444',
   //socketPath: '/goinfre/enradcli/Desktop/MAMP/mysql/tmp/mysql.sock',
   });
